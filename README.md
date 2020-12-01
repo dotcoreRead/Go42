@@ -33,12 +33,22 @@ function，method，interface，type等词语是程序员们接触比较多的�
 
 祝各位Gopher们工作开心，愉快编码！
 
+
 ## 开始阅读
 
 本书内容在github更新：https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md<br>
 
 
 #### [>>>开始阅读 第一章 Go安装与运行](https://github.com/ffhelicopter/Go42/blob/master/content/42_01_install.md)
+
+
+## 进阶阅读
+
+《Go语言四十二章经》开源电子书升级版《深入学习Go语言》，在当当，天猫，京东有售，感谢各位对此书的支持与关注!
+
+本书适合初次学习Go语言，以及对Go语言有初步了解的开发者，读者可通过本书努力在尽量短的时间内成长为一名合格的Go语言开发者。
+
+![go.png](https://bkimg.cdn.bcebos.com/pic/77c6a7efce1b9d16940ab8bcfddeb48f8d546419?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg)
 
 
 
@@ -49,22 +59,8 @@ function，method，interface，type等词语是程序员们接触比较多的�
 #### [>>> 开始阅读  rpcx 框架](https://github.com/ffhelicopter/Go42/blob/master/content/42_43_rpcx.md)
 
 
-
-
-## 新书推荐
-
-![go.png](https://github.com/ffhelicopter/Go42/blob/master/content/img/go.png)
-
-
-《深入学习Go语言》在当当，天猫，京东有售，感谢各位对此书的支持与关注!
-
-
-本书适合初次学习Go语言，以及对Go语言有初步了解的开发者，读者可通过本书努力在尽量短的时间内成长为一名合格的Go语言开发者。
-
-
 ## 最新分享
 
-![gin.png](https://images.gitbook.cn/FoARgR_Zx-LBqTrNxvf3oaPwdkKy)
 
 本人在 GitChat 的专栏分享《Gin 框架入门实践》！ [我要报名参加](https://gitbook.cn/gitchat/column/5dab061e7d66831b22aa0b44)
 
